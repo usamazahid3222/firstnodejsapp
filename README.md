@@ -1,2 +1,2 @@
 # firstnodejsapp
-node js first app part 1 and part 2 done and completing rest
+node js first app part 1, part 2, and part 3 done and completing rest
